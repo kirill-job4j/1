@@ -9,5 +9,6 @@ public class Main {
         idea += year;
         System.out.println(idea);
 
+
     }
 }
